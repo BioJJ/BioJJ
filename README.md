@@ -33,6 +33,12 @@
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" alt="Git"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" alt="Docker"/></code>
 
+<div >
+  <a href="https://github.com/BioJJ">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=BioJJ&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BioJJ&layout=compact&langs_count=7&theme=dracula"/>
+</div>
+
 ## ♜ Follow me and Contact me ♜
 <p align="left">
   <a href="mailto:bio.jeffcoelho@gmail.com" alt="Gmail">
