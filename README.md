@@ -1,10 +1,11 @@
 <img src="/computerlogo.svg" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador ">
 
 <p align="left"> 
-  Hello, my name is Jefferson Coelho,  I am <strong>Full Stack Developer</strong> <br>
+  Hello, my name is Jefferson Coelho,  I am <strong>Full Stack Developer PL</strong> <br>
    
 </p>
 ## My Development Stack
+
 
 **Frontend**
 
@@ -62,7 +63,7 @@
 <div >
   <a href="https://github.com/BioJJ">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=BioJJ&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BioJJ&layout=compact&langs_count=9&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BioJJ&layout=compact&langs_count=15&theme=dracula"/>
 </div>
 
 ## ♜ Follow me and Contact me ♜
