@@ -66,6 +66,15 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BioJJ&layout=compact&langs_count=15&theme=dracula"/>
 </div>
 
+### 💻 Desempenho
+
+<div>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=biojj&amp;theme=radical">
+</div>
+
+
+
+
 ## ♜ Follow me and Contact me ♜
 <p align="left">
   <a href="mailto:bio.jeffcoelho@gmail.com" alt="Gmail">
